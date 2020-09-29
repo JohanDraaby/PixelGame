@@ -1,0 +1,1327 @@
+fileFormatVersion: 2
+guid: 6d404c6490d06254b8f34355dc0c9257
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4996556198480218758
+    second: Lee and neji_0
+  - first:
+      213: -4077722153671152479
+    second: Lee and neji_1
+  - first:
+      213: 6017094083362239883
+    second: Lee and neji_2
+  - first:
+      213: -8333545624299213692
+    second: Lee and neji_3
+  - first:
+      213: -6219944040035604109
+    second: Lee and neji_4
+  - first:
+      213: -8171197734304446008
+    second: Lee and neji_5
+  - first:
+      213: -2689347798330660485
+    second: Lee and neji_6
+  - first:
+      213: 4452055234587435075
+    second: Lee and neji_7
+  - first:
+      213: 5486386759120761617
+    second: Lee and neji_8
+  - first:
+      213: -1201807804510260130
+    second: Lee and neji_9
+  - first:
+      213: 270795331399656089
+    second: Lee and neji_10
+  - first:
+      213: 105635866623811966
+    second: Lee and neji_11
+  - first:
+      213: 4821033515226630912
+    second: Lee and neji_12
+  - first:
+      213: 5022476934834136264
+    second: Lee and neji_13
+  - first:
+      213: 4184127881879238648
+    second: Lee and neji_14
+  - first:
+      213: -1286977307229637711
+    second: Lee and neji_15
+  - first:
+      213: 3026394897636677901
+    second: Lee and neji_16
+  - first:
+      213: 1427670359555620867
+    second: Lee and neji_17
+  - first:
+      213: -7913168708319641188
+    second: Lee and neji_18
+  - first:
+      213: -1005751466088120178
+    second: Lee and neji_19
+  - first:
+      213: 5215430922755802199
+    second: Lee and neji_20
+  - first:
+      213: 7011137476070912684
+    second: Lee and neji_21
+  - first:
+      213: 4643361429657235587
+    second: Lee and neji_22
+  - first:
+      213: 3488729133172016538
+    second: Lee and neji_23
+  - first:
+      213: -915461894182090844
+    second: Lee and neji_24
+  - first:
+      213: 9069010275531554327
+    second: Lee and neji_25
+  - first:
+      213: -4592312656436899745
+    second: Lee and neji_26
+  - first:
+      213: -6660438648850331713
+    second: Lee and neji_27
+  - first:
+      213: -5701722408565577215
+    second: Lee and neji_28
+  - first:
+      213: 3578982009437731339
+    second: Lee and neji_29
+  - first:
+      213: -4220446543235555456
+    second: Lee and neji_30
+  - first:
+      213: -3035106167464953919
+    second: Lee and neji_31
+  - first:
+      213: -1890091722964026106
+    second: Lee and neji_32
+  - first:
+      213: 5974818013327255313
+    second: Lee and neji_33
+  - first:
+      213: 2046748382987181982
+    second: Lee and neji_34
+  - first:
+      213: 1553154686201784676
+    second: Lee and neji_35
+  - first:
+      213: -8978448537654043373
+    second: Lee and neji_36
+  - first:
+      213: 7366421335558324187
+    second: Lee and neji_37
+  - first:
+      213: 1028678894535189669
+    second: Lee and neji_38
+  - first:
+      213: -180991893253623902
+    second: Lee and neji_39
+  - first:
+      213: -8106930112564178277
+    second: Lee and neji_40
+  - first:
+      213: -4251878121522625635
+    second: Lee and neji_41
+  - first:
+      213: 5188537896838785208
+    second: Lee and neji_42
+  - first:
+      213: 4914106395472041584
+    second: Lee and neji_43
+  - first:
+      213: -490394823585525852
+    second: Lee and neji_44
+  - first:
+      213: -7568847329449081774
+    second: Lee and neji_45
+  - first:
+      213: -7474993211290903729
+    second: Lee and neji_46
+  - first:
+      213: 8146125944438935820
+    second: Lee and neji_47
+  - first:
+      213: 1931957588294296256
+    second: Lee and neji_48
+  - first:
+      213: 2386593701970317482
+    second: Lee and neji_49
+  - first:
+      213: -6250819803482408472
+    second: Lee and neji_50
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lee and neji_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 149
+        width: 100
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5033444b105bb234093482f45dbc6096
+      internalID: 4996556198480218758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 172
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98bcd482b99e874d8cd4f773f528ff0
+      internalID: -4077722153671152479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 172
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b248d47fa5748de4095d0bc5852ed940
+      internalID: 6017094083362239883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 172
+        width: 15
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068689ff5b159da43997f4f545a2b556
+      internalID: -8333545624299213692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 172
+        width: 15
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50999c5af0fed64abf31b030edb1ea3
+      internalID: -6219944040035604109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 172
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d456a31829b79244e9ec889600adddd3
+      internalID: -8171197734304446008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 172
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961fd325ee4edbe42b570d400a0be644
+      internalID: -2689347798330660485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 172
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3910977989fc0ba4596efa32528a1ba8
+      internalID: 4452055234587435075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_8
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 172
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deca84956c9c54942a629f42ffb7615d
+      internalID: 5486386759120761617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_9
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 172
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b203570362654d44a81f2d55e8b7111a
+      internalID: -1201807804510260130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 172
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fe7ab9d84b7b848b8a5ab71d8d539c
+      internalID: 270795331399656089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_11
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 172
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b66ed96540c4b4a82ae442c6063ded
+      internalID: 105635866623811966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_12
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 172
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965a48af0d44a394095acaddec1eb918
+      internalID: 4821033515226630912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_13
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 172
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80db6e7485b8676429c408e79a35602e
+      internalID: 5022476934834136264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_14
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 172
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e12298efd7cb242930c82a2782b976
+      internalID: 4184127881879238648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_15
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 172
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5823e8da647cafa4a92cd975f1b44460
+      internalID: -1286977307229637711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_16
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 172
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0387e4419be98764dafaab870f95cad5
+      internalID: 3026394897636677901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_17
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 172
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90d51dcd3f249443b8495661acfa177
+      internalID: 1427670359555620867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_18
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 172
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509a7e520074b1941a5a0d5d71851739
+      internalID: -7913168708319641188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_19
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 172
+        width: 15
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee6d4596e9955143be4b786250584c1
+      internalID: -1005751466088120178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 172
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672e97cf75a993c4b95618db50d39599
+      internalID: 5215430922755802199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_21
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 172
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18439d6812bb9b64190d2434e5512152
+      internalID: 7011137476070912684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_22
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 172
+        width: 15
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9961137f04942014991fa09ce17a210c
+      internalID: 4643361429657235587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_23
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 172
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af433d76d236784f8089e4c22ed46ed
+      internalID: 3488729133172016538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_24
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 172
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f7e075cb68b0a4c820495f46e08fe8
+      internalID: -915461894182090844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_25
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 172
+        width: 15
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1224f77f6fc4c24fbac816498bd9503
+      internalID: 9069010275531554327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_26
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 172
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965adf1dc2122c64a809f555a05a9322
+      internalID: -4592312656436899745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_27
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 172
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e26b3c1211a82b498db4940dc803b0a
+      internalID: -6660438648850331713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_28
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 172
+        width: 15
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05def9fe4203f4c4ba0de3237eae06a6
+      internalID: -5701722408565577215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 17
+        width: 90
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c36df4ea5797f48b3a9e75d2727fb1
+      internalID: 3578982009437731339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_30
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 38
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb9e717c0aba16458532333af562f1d
+      internalID: -4220446543235555456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 38
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80e0b690249d2f4788c1b38334d006c
+      internalID: -3035106167464953919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 38
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fafaaa46eb6d6a4f9a317d818eacb2e
+      internalID: -1890091722964026106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_33
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 38
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b181c4aef97f904ba5ebdd45444d983
+      internalID: 5974818013327255313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_34
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 38
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaab36a9acc8d349ad53bfdabcfce4c
+      internalID: 2046748382987181982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_35
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 38
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dd98590e7a9e34882cd70dd606ed9e
+      internalID: 1553154686201784676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_36
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 38
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda197de1d398254081a8fe398892465
+      internalID: -8978448537654043373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_37
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 38
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f49a24a6e1d224cbc240098c7816d8
+      internalID: 7366421335558324187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_38
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 38
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e61a98bdd71d74caa7895112ad3fa5
+      internalID: 1028678894535189669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_39
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 38
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd08cce5d52d9e479c63311f8c0ef48
+      internalID: -180991893253623902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_40
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 38
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa19e4ea7f3cc74d8b871ec643de051
+      internalID: -8106930112564178277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_41
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 38
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd22e39772d4dfd4b83257cdde5a9b9a
+      internalID: -4251878121522625635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_42
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 38
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051e5b90fd69e1d4a8a26d997119924e
+      internalID: 5188537896838785208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_43
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 38
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9761f5674cf3574a82ec754f216c534
+      internalID: 4914106395472041584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_44
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 38
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c28585f85dbeeb4d825844c003a8504
+      internalID: -490394823585525852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_45
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 38
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4476e5153d47945bbf1e585ce24d7a
+      internalID: -7568847329449081774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_46
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 38
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545aca8035e24aa4ca23c63ba3a527a4
+      internalID: -7474993211290903729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 38
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388798a183aa4f54ea2ff22343412cf2
+      internalID: 8146125944438935820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_48
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 38
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c560a104a45b7409ec7ec7e81b8562
+      internalID: 1931957588294296256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_49
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 38
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c4badc9f2373b4598f0658ddd7eb3f
+      internalID: 2386593701970317482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lee and neji_50
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 38
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f919c254fff223a4d8279135d45b9b3a
+      internalID: -6250819803482408472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

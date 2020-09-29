@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: 1840bd4cdc26c3946b552b0e5d1cb177
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 826259501852681070
+    second: Jiraiya_0
+  - first:
+      213: 525640199530980731
+    second: Jiraiya_1
+  - first:
+      213: -4627235859571052800
+    second: Jiraiya_2
+  - first:
+      213: -3353737215004498964
+    second: Jiraiya_3
+  - first:
+      213: 4614793358445673384
+    second: Jiraiya_4
+  - first:
+      213: -7660519693685111288
+    second: Jiraiya_5
+  - first:
+      213: 5145349404936451094
+    second: Jiraiya_6
+  - first:
+      213: -3797251937096616548
+    second: Jiraiya_7
+  - first:
+      213: -941793381635760343
+    second: Jiraiya_8
+  - first:
+      213: -4951976558197139320
+    second: Jiraiya_9
+  - first:
+      213: 8059773704222562538
+    second: Jiraiya_10
+  - first:
+      213: 8915649984921311975
+    second: Jiraiya_11
+  - first:
+      213: -2641787385107593868
+    second: Jiraiya_12
+  - first:
+      213: -5977494928704612899
+    second: Jiraiya_13
+  - first:
+      213: 8610670943242684832
+    second: Jiraiya_14
+  - first:
+      213: -3638461912256912846
+    second: Jiraiya_15
+  - first:
+      213: 2587286309757282654
+    second: Jiraiya_16
+  - first:
+      213: -7937801260164123917
+    second: Jiraiya_17
+  - first:
+      213: 1865390586907707639
+    second: Jiraiya_18
+  - first:
+      213: 730584803475477730
+    second: Jiraiya_19
+  - first:
+      213: -7725058318814044619
+    second: Jiraiya_20
+  - first:
+      213: 8900777222739834652
+    second: Jiraiya_21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jiraiya_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 8
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c82df42990270d4ca0a7fd35036a052
+      internalID: 826259501852681070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jiraiya_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 42
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7698d25f2596ee54e877f89c9349025e
+      internalID: 525640199530980731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jiraiya_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 42
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbd3219a93562a459757aaa9cc01171
+      internalID: -4627235859571052800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jiraiya_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 42
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503750fa32db05549afd5c1265af6a88
+      internalID: -3353737215004498964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jiraiya_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 42
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfc349b109e1b14b83203d43ac89751
+      internalID: 4614793358445673384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jiraiya_5
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 42
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfdb601c3caba24cabb4cb0fce0c2a3
+      internalID: -7660519693685111288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jiraiya_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 42
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a51f27a72148044ab80867f5437fdf
+      internalID: 5145349404936451094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jiraiya_7
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 42
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4692638e44181408cf29ef9b52249c
+      internalID: -3797251937096616548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jiraiya_8
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 42
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6546b2ff3155b6f4289202a7055ce698
+      internalID: -941793381635760343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jiraiya_9
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 42
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1a78121ae77924ea2cee1b209c1c36
+      internalID: -4951976558197139320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jiraiya_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 42
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955ee81d02da69e4d8224389272b925f
+      internalID: 8059773704222562538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jiraiya_11
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 42
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96226812550493d48b903df513e46a89
+      internalID: 8915649984921311975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jiraiya_12
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 42
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f45f6276c671a644acdcb514148f64d
+      internalID: -2641787385107593868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jiraiya_13
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 42
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c155c426d685e84ea59845e1bab1433
+      internalID: -5977494928704612899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jiraiya_14
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 42
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2815b93753394534bbed018f020220d9
+      internalID: 8610670943242684832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jiraiya_15
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 42
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1a7ba156d6e2b4f9d0c67d33ec8ed1
+      internalID: -3638461912256912846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jiraiya_16
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 42
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e9f0c0b74cec44f85c86a087959208
+      internalID: 2587286309757282654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jiraiya_17
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 42
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffd735fdeaf7474abd86bd0a86c6355
+      internalID: -7937801260164123917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jiraiya_18
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 42
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c88155f355eb524894fbad0f8ef27c5
+      internalID: 1865390586907707639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jiraiya_19
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 42
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a081e128da0604ebd35100c1d569b1
+      internalID: 730584803475477730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jiraiya_20
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 43
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53016fd858c61046959766cf34c4f11
+      internalID: -7725058318814044619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jiraiya_21
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 43
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f247240b4396a142af1806c5b72fcd1
+      internalID: 8900777222739834652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

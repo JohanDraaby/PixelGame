@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 6aa589708f185424daa863e2b3fcf80d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1946143541603575993
+    second: Kakashi_NPC_0
+  - first:
+      213: -2865396694385876153
+    second: Kakashi_NPC_1
+  - first:
+      213: 5189647620041838587
+    second: Kakashi_NPC_2
+  - first:
+      213: -1543096682608113027
+    second: Kakashi_NPC_3
+  - first:
+      213: -6100995132987612534
+    second: Kakashi_NPC_4
+  - first:
+      213: -1365011278883987095
+    second: Kakashi_NPC_5
+  - first:
+      213: 6547798445066439133
+    second: Kakashi_NPC_6
+  - first:
+      213: 3973727407909092353
+    second: Kakashi_NPC_7
+  - first:
+      213: 6205925584415701546
+    second: Kakashi_NPC_8
+  - first:
+      213: -1196373040238635679
+    second: Kakashi_NPC_9
+  - first:
+      213: -3490921392250935933
+    second: Kakashi_NPC_10
+  - first:
+      213: -3205198129176840872
+    second: Kakashi_NPC_11
+  - first:
+      213: 6987461012741578259
+    second: Kakashi_NPC_12
+  - first:
+      213: 3489113621851762979
+    second: Kakashi_NPC_13
+  - first:
+      213: 5330582380423679930
+    second: Kakashi_NPC_14
+  - first:
+      213: 5014061850578262881
+    second: Kakashi_NPC_15
+  - first:
+      213: -3708350722199344014
+    second: Kakashi_NPC_16
+  - first:
+      213: 7270353990801678892
+    second: Kakashi_NPC_17
+  - first:
+      213: 3567424546018865673
+    second: Kakashi_NPC_18
+  - first:
+      213: 8737219149629252798
+    second: Kakashi_NPC_19
+  - first:
+      213: 132841218916175147
+    second: Kakashi_NPC_20
+  - first:
+      213: 7569596465876839150
+    second: Kakashi_NPC_21
+  - first:
+      213: 8281000904070490181
+    second: Kakashi_NPC_22
+  - first:
+      213: -5879593030473744852
+    second: Kakashi_NPC_23
+  - first:
+      213: -1322963416249882458
+    second: Kakashi_NPC_24
+  - first:
+      213: 2190392767620343845
+    second: Kakashi_NPC_25
+  - first:
+      213: 6452729441934314149
+    second: Kakashi_NPC_26
+  - first:
+      213: -4918083160489984638
+    second: Kakashi_NPC_27
+  - first:
+      213: 2114131084079584129
+    second: Kakashi_NPC_28
+  - first:
+      213: -8135517579276199405
+    second: Kakashi_NPC_29
+  - first:
+      213: 6563188450908375561
+    second: Kakashi_NPC_30
+  - first:
+      213: 9178044480384539109
+    second: Kakashi_NPC_31
+  - first:
+      213: 820179681518114956
+    second: Kakashi_NPC_32
+  - first:
+      213: -151808388029274942
+    second: Kakashi_NPC_33
+  - first:
+      213: -8956740272730943803
+    second: Kakashi_NPC_34
+  - first:
+      213: -8145603236527761246
+    second: Kakashi_NPC_35
+  - first:
+      213: 2566410219277876125
+    second: Kakashi_NPC_36
+  - first:
+      213: 685723183095769388
+    second: Kakashi_NPC_37
+  - first:
+      213: 662622985863248739
+    second: Kakashi_NPC_38
+  - first:
+      213: -6920725150489259097
+    second: Kakashi_NPC_39
+  - first:
+      213: -3409847000974778138
+    second: Kakashi_NPC_40
+  - first:
+      213: -1143142191757216132
+    second: Kakashi_NPC_41
+  - first:
+      213: 3378253341194363189
+    second: Kakashi_NPC_42
+  - first:
+      213: 955633080077145913
+    second: Kakashi_NPC_43
+  - first:
+      213: 4063174210743569217
+    second: Kakashi_NPC_44
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kakashi_NPC_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 124
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b2e26c1bae43847a3ee29f35c3b09d
+      internalID: 1946143541603575993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 6
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f30019a7a10544c9fe3498e9c1fbf2
+      internalID: -2865396694385876153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_12
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 105
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3517eea22d8448c45b5550c8a63de206
+      internalID: 6987461012741578259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 34
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18adeb9890936fe4591c97464666acd4
+      internalID: -3708350722199344014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 34
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4675313a46d854c9460ebfe12ecb62
+      internalID: 7270353990801678892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_18
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 34
+        width: 17
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e414034b9d3a3784a8de27f751854644
+      internalID: 3567424546018865673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_19
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 34
+        width: 18
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2734373b83bbef4e8c5cf4163ea904c
+      internalID: 8737219149629252798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_20
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 34
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271c8d8662e59b546a26b368e9c3fafc
+      internalID: 132841218916175147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 34
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bc82b2d4ae41348aca5eca2e0b7b6b
+      internalID: 7569596465876839150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_22
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 34
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79231a9c40102448a316cbc7da29eac
+      internalID: 8281000904070490181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_23
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 34
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd79726fb6e535c4bb95f0961771e082
+      internalID: -5879593030473744852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_24
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 34
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559e90f873202294897e88ea3268564b
+      internalID: -1322963416249882458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_25
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 34
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96705d1f4e3a18e4db2e497e5aaa99be
+      internalID: 2190392767620343845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_26
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 34
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9320902aeeda524b994a64263021eef
+      internalID: 6452729441934314149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_27
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 34
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5d7bcb5bc1cda4bb9f81b2c994ce52
+      internalID: -4918083160489984638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_28
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 34
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c8d95be3491bc48bda552c0dd4d2d5
+      internalID: 2114131084079584129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_29
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 34
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a2bd7347c0189429485fd1e3f173b1
+      internalID: -8135517579276199405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_30
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 34
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6149f5567d1ff5241a517e6d67f64095
+      internalID: 6563188450908375561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_31
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 34
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8ddd9434a100847a8558fd21d31747
+      internalID: 9178044480384539109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_32
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 36
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769d0336adf9f234e866c490cbdbbb4c
+      internalID: 820179681518114956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_33
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 36
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dae0f58ccfa96144826a992851df9ae
+      internalID: -151808388029274942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_34
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 36
+        width: 17
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb598c9c006731d4aac8d542dc67a536
+      internalID: -8956740272730943803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_35
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 36
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329aa354e99f4f549a63b484d5ef4a5a
+      internalID: -8145603236527761246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_36
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 36
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b000402bee0df840992291cd1ac9bd5
+      internalID: 2566410219277876125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_37
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 36
+        width: 17
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd99aa3e44c6de419966f3415d8144a
+      internalID: 685723183095769388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_38
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 36
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd12dd145d6c2204bb9ca05bc89c3812
+      internalID: 662622985863248739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_39
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 36
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e34474b39052f45b1c070379ad551d
+      internalID: -6920725150489259097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_40
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 36
+        width: 18
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ae54c7e9d764b49afb5922bf0181be
+      internalID: -3409847000974778138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_41
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 36
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5c572d6c86cc14599253ab28946f29
+      internalID: -1143142191757216132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_42
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 36
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a483392ab59d90b48b9da9449aa9b054
+      internalID: 3378253341194363189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_43
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 36
+        width: 18
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2813838ae3ddbc74ca0a4fad966352dd
+      internalID: 955633080077145913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kakashi_NPC_44
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 36
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a032f10e9429045ac92417da2b5ade
+      internalID: 4063174210743569217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

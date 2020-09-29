@@ -1,0 +1,3451 @@
+fileFormatVersion: 2
+guid: 879ca00e136c4c147b369aa3b8251644
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3793152359220520108
+    second: Enemy_Shinobies_0
+  - first:
+      213: 6939378374215175599
+    second: Enemy_Shinobies_1
+  - first:
+      213: -1671766175208574484
+    second: Enemy_Shinobies_2
+  - first:
+      213: -7585958382626920191
+    second: Enemy_Shinobies_3
+  - first:
+      213: -7366903527273433886
+    second: Enemy_Shinobies_4
+  - first:
+      213: -3550935708638744406
+    second: Enemy_Shinobies_5
+  - first:
+      213: -1150217484186480498
+    second: Enemy_Shinobies_6
+  - first:
+      213: -8989315788722344810
+    second: Enemy_Shinobies_7
+  - first:
+      213: 1051306369501322997
+    second: Enemy_Shinobies_8
+  - first:
+      213: 5769818861786443428
+    second: Enemy_Shinobies_9
+  - first:
+      213: 2738670917130117072
+    second: Enemy_Shinobies_10
+  - first:
+      213: 1629272787934327169
+    second: Enemy_Shinobies_11
+  - first:
+      213: -8991713538297747226
+    second: Enemy_Shinobies_12
+  - first:
+      213: -3610388915851774666
+    second: Enemy_Shinobies_13
+  - first:
+      213: 7700425166434510346
+    second: Enemy_Shinobies_14
+  - first:
+      213: 2647731972250025256
+    second: Enemy_Shinobies_15
+  - first:
+      213: 7545631766258680261
+    second: Enemy_Shinobies_16
+  - first:
+      213: 3152090999041658172
+    second: Enemy_Shinobies_17
+  - first:
+      213: 7029714364347169937
+    second: Enemy_Shinobies_18
+  - first:
+      213: -5575363949601172460
+    second: Enemy_Shinobies_19
+  - first:
+      213: 948519137191062073
+    second: Enemy_Shinobies_20
+  - first:
+      213: -8405412882334076785
+    second: Enemy_Shinobies_21
+  - first:
+      213: 5392458929750361876
+    second: Enemy_Shinobies_22
+  - first:
+      213: -2492860175982914755
+    second: Enemy_Shinobies_23
+  - first:
+      213: -8277201678364743863
+    second: Enemy_Shinobies_24
+  - first:
+      213: -131297666573351291
+    second: Enemy_Shinobies_25
+  - first:
+      213: 201311474948697068
+    second: Enemy_Shinobies_26
+  - first:
+      213: 6137255206589696286
+    second: Enemy_Shinobies_27
+  - first:
+      213: 4607802341710678069
+    second: Enemy_Shinobies_28
+  - first:
+      213: -5442339235819264715
+    second: Enemy_Shinobies_29
+  - first:
+      213: -3503701947652421012
+    second: Enemy_Shinobies_30
+  - first:
+      213: 3314715897975411264
+    second: Enemy_Shinobies_31
+  - first:
+      213: -8001891229191080313
+    second: Enemy_Shinobies_32
+  - first:
+      213: -5141470029832243674
+    second: Enemy_Shinobies_33
+  - first:
+      213: 5462626123228230912
+    second: Enemy_Shinobies_34
+  - first:
+      213: 4321346944704947264
+    second: Enemy_Shinobies_35
+  - first:
+      213: 2716956066260767287
+    second: Enemy_Shinobies_36
+  - first:
+      213: 7903562019468431788
+    second: Enemy_Shinobies_37
+  - first:
+      213: 5172972115698408514
+    second: Enemy_Shinobies_38
+  - first:
+      213: 3669078257961308673
+    second: Enemy_Shinobies_39
+  - first:
+      213: -4228458828314014101
+    second: Enemy_Shinobies_40
+  - first:
+      213: -1154356986826240580
+    second: Enemy_Shinobies_41
+  - first:
+      213: 7510430086436679612
+    second: Enemy_Shinobies_42
+  - first:
+      213: -2238209975756024508
+    second: Enemy_Shinobies_43
+  - first:
+      213: 7223082793304272682
+    second: Enemy_Shinobies_44
+  - first:
+      213: 8859534456034721557
+    second: Enemy_Shinobies_45
+  - first:
+      213: 3501282399546996498
+    second: Enemy_Shinobies_46
+  - first:
+      213: 5016391731394646408
+    second: Enemy_Shinobies_47
+  - first:
+      213: -6322042949161357845
+    second: Enemy_Shinobies_48
+  - first:
+      213: -8473841331998040159
+    second: Enemy_Shinobies_49
+  - first:
+      213: 9079413886493485186
+    second: Enemy_Shinobies_50
+  - first:
+      213: 3024198412684229649
+    second: Enemy_Shinobies_51
+  - first:
+      213: 7426098556711720094
+    second: Enemy_Shinobies_52
+  - first:
+      213: -562677018374019625
+    second: Enemy_Shinobies_53
+  - first:
+      213: -1384840068017027372
+    second: Enemy_Shinobies_54
+  - first:
+      213: 7805993554558244358
+    second: Enemy_Shinobies_55
+  - first:
+      213: 1449533427278040649
+    second: Enemy_Shinobies_56
+  - first:
+      213: 2583934428467553584
+    second: Enemy_Shinobies_57
+  - first:
+      213: -3878078375288563865
+    second: Enemy_Shinobies_58
+  - first:
+      213: 8473221842093683612
+    second: Enemy_Shinobies_59
+  - first:
+      213: -3801885114918538072
+    second: Enemy_Shinobies_60
+  - first:
+      213: -8607644185304248636
+    second: Enemy_Shinobies_61
+  - first:
+      213: -4130262279574746411
+    second: Enemy_Shinobies_62
+  - first:
+      213: -4038216379609967663
+    second: Enemy_Shinobies_63
+  - first:
+      213: 7216501812283603583
+    second: Enemy_Shinobies_64
+  - first:
+      213: -3976637211076220836
+    second: Enemy_Shinobies_65
+  - first:
+      213: 5040549483016042394
+    second: Enemy_Shinobies_66
+  - first:
+      213: -8330091520617503182
+    second: Enemy_Shinobies_67
+  - first:
+      213: 651992885984521675
+    second: Enemy_Shinobies_68
+  - first:
+      213: -832069527018261530
+    second: Enemy_Shinobies_69
+  - first:
+      213: -2935395537627003582
+    second: Enemy_Shinobies_70
+  - first:
+      213: 1200594066324227567
+    second: Enemy_Shinobies_71
+  - first:
+      213: 6299147501143721905
+    second: Enemy_Shinobies_72
+  - first:
+      213: 3016670370984433291
+    second: Enemy_Shinobies_73
+  - first:
+      213: -510666064194154283
+    second: Enemy_Shinobies_74
+  - first:
+      213: 2900746794084640785
+    second: Enemy_Shinobies_75
+  - first:
+      213: 7361790942730341887
+    second: Enemy_Shinobies_76
+  - first:
+      213: 7510649529068877921
+    second: Enemy_Shinobies_77
+  - first:
+      213: 5022501776260073587
+    second: Enemy_Shinobies_78
+  - first:
+      213: -481260446260074605
+    second: Enemy_Shinobies_79
+  - first:
+      213: -7638813021721935998
+    second: Enemy_Shinobies_80
+  - first:
+      213: 7607737843870681878
+    second: Enemy_Shinobies_81
+  - first:
+      213: -4174150448946931686
+    second: Enemy_Shinobies_82
+  - first:
+      213: 3666842388270064212
+    second: Enemy_Shinobies_83
+  - first:
+      213: 853685002473670716
+    second: Enemy_Shinobies_84
+  - first:
+      213: -7343376446857918173
+    second: Enemy_Shinobies_85
+  - first:
+      213: 7112344959628220649
+    second: Enemy_Shinobies_86
+  - first:
+      213: -8086123512335044229
+    second: Enemy_Shinobies_87
+  - first:
+      213: 234859177685808352
+    second: Enemy_Shinobies_88
+  - first:
+      213: -3059853377249748945
+    second: Enemy_Shinobies_89
+  - first:
+      213: 1719273078273657131
+    second: Enemy_Shinobies_90
+  - first:
+      213: 249662019029667174
+    second: Enemy_Shinobies_91
+  - first:
+      213: -4201213385031251293
+    second: Enemy_Shinobies_92
+  - first:
+      213: 8836133428296533695
+    second: Enemy_Shinobies_93
+  - first:
+      213: -2519585656884272350
+    second: Enemy_Shinobies_94
+  - first:
+      213: -7322936815720457121
+    second: Enemy_Shinobies_95
+  - first:
+      213: 4883526584861024007
+    second: Enemy_Shinobies_96
+  - first:
+      213: 7599950894328398443
+    second: Enemy_Shinobies_97
+  - first:
+      213: -6287170106851748188
+    second: Enemy_Shinobies_98
+  - first:
+      213: 1634345946109738900
+    second: Enemy_Shinobies_99
+  - first:
+      213: -8644959355548545632
+    second: Enemy_Shinobies_100
+  - first:
+      213: -901162287700045516
+    second: Enemy_Shinobies_101
+  - first:
+      213: 7909760139275295147
+    second: Enemy_Shinobies_102
+  - first:
+      213: -5069050943502930448
+    second: Enemy_Shinobies_103
+  - first:
+      213: -521664427168203994
+    second: Enemy_Shinobies_104
+  - first:
+      213: -71481004651482242
+    second: Enemy_Shinobies_105
+  - first:
+      213: -6616985564468468782
+    second: Enemy_Shinobies_106
+  - first:
+      213: -5081910972215760832
+    second: Enemy_Shinobies_107
+  - first:
+      213: -7231579830537364790
+    second: Enemy_Shinobies_108
+  - first:
+      213: -850885434771489000
+    second: Enemy_Shinobies_109
+  - first:
+      213: 9112286087849887209
+    second: Enemy_Shinobies_110
+  - first:
+      213: 7385739708429563120
+    second: Enemy_Shinobies_111
+  - first:
+      213: -7853774826403443105
+    second: Enemy_Shinobies_112
+  - first:
+      213: -7280988811755971180
+    second: Enemy_Shinobies_113
+  - first:
+      213: 7760659951329830388
+    second: Enemy_Shinobies_114
+  - first:
+      213: 1998641467438365020
+    second: Enemy_Shinobies_115
+  - first:
+      213: 1296545757861157509
+    second: Enemy_Shinobies_116
+  - first:
+      213: 7002569439302310409
+    second: Enemy_Shinobies_117
+  - first:
+      213: -7758139023487179950
+    second: Enemy_Shinobies_118
+  - first:
+      213: -6597290483922516194
+    second: Enemy_Shinobies_119
+  - first:
+      213: -5135640293089134442
+    second: Enemy_Shinobies_120
+  - first:
+      213: -5108498663001609181
+    second: Enemy_Shinobies_121
+  - first:
+      213: 5149697257699845701
+    second: Enemy_Shinobies_122
+  - first:
+      213: -4727747304470961993
+    second: Enemy_Shinobies_123
+  - first:
+      213: 743458022636812935
+    second: Enemy_Shinobies_124
+  - first:
+      213: -8685055164778473696
+    second: Enemy_Shinobies_125
+  - first:
+      213: 488720775149618332
+    second: Enemy_Shinobies_126
+  - first:
+      213: 5199357688909359182
+    second: Enemy_Shinobies_127
+  - first:
+      213: -336559257788563135
+    second: Enemy_Shinobies_128
+  - first:
+      213: 4580225576671045131
+    second: Enemy_Shinobies_129
+  - first:
+      213: -7112771293589385440
+    second: Enemy_Shinobies_130
+  - first:
+      213: -2667140480739224103
+    second: Enemy_Shinobies_131
+  - first:
+      213: 3895188964434738831
+    second: Enemy_Shinobies_132
+  - first:
+      213: 4465844641263102090
+    second: Enemy_Shinobies_133
+  - first:
+      213: -7168135664431968997
+    second: Enemy_Shinobies_134
+  - first:
+      213: 5078332384064122840
+    second: Enemy_Shinobies_135
+  - first:
+      213: 7334617261150441259
+    second: Enemy_Shinobies_136
+  - first:
+      213: -4192173971019992905
+    second: Enemy_Shinobies_137
+  - first:
+      213: -2350731052235294544
+    second: Enemy_Shinobies_138
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Shinobies_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 303
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ba66328607d904bae2f8103595a632
+      internalID: 3793152359220520108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 303
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52da158bc5ea344191ab0061c434bfe
+      internalID: 6939378374215175599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 303
+        width: 15
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbcf4932886f0547824fc4aad0d59af
+      internalID: -1671766175208574484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 303
+        width: 15
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c27065a48818ab43a8ccf936ff048d3
+      internalID: -7585958382626920191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 303
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4141c838f8c3ed46ba988e8012d0380
+      internalID: -7366903527273433886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 303
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4aee54361a440248a07c6018ffac2e7
+      internalID: -3550935708638744406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 303
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa4cb67941200646a1a8aae26a743c0
+      internalID: -1150217484186480498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_7
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 303
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb17b751ad2b43342940d0f8ee042ac6
+      internalID: -8989315788722344810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_8
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 303
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b48b5a92bfff94688b05063e539776
+      internalID: 1051306369501322997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 303
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4062c2b1ef10b4b40ac0f2df27723f7a
+      internalID: 5769818861786443428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 303
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef9543f71553fc488df1410fc1eb721
+      internalID: 2738670917130117072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 303
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489ab60f6357c0f4c83c6e8d57f6e130
+      internalID: 1629272787934327169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 303
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c30379c42284a4eb63acd3e4160bb1
+      internalID: -8991713538297747226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_13
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 303
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e985ae165662046ac063125d6cee55
+      internalID: -3610388915851774666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_14
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 303
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd9f1331873b8f448a12ff192b1f378
+      internalID: 7700425166434510346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_15
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 303
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6358f1f4044c24092215a60e9d1239
+      internalID: 2647731972250025256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_16
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 303
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb68675fb7140bc49a7513abcea8a70d
+      internalID: 7545631766258680261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_17
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 303
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4371cc9f8b8d6e4daaddec3321a4866
+      internalID: 3152090999041658172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 303
+        width: 15
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b862f9b08e4c3f49b8d03646a99df1b
+      internalID: 7029714364347169937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_19
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 303
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c740db727a6e440a285d9a3c393e8e
+      internalID: -5575363949601172460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_20
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 303
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252f24aca4106044a8428bc7e0e10115
+      internalID: 948519137191062073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_21
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 303
+        width: 15
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50eb13f6d6c010f4a8d4727531504f2a
+      internalID: -8405412882334076785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_22
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 303
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433a79a3006ded3498695f03668c3fe8
+      internalID: 5392458929750361876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_23
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 303
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8adcc71cecb4f5469e3736362de5ca9
+      internalID: -2492860175982914755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_24
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 303
+        width: 15
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03378c97cf302de429d08d4cd1c6da16
+      internalID: -8277201678364743863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_25
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 303
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc225398b892b44e83b68935e12272c
+      internalID: -131297666573351291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_26
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 303
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97564b13f6ec8a2498d7a843201c1bfa
+      internalID: 201311474948697068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_27
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 303
+        width: 15
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc6f46e01d05424fb731939f3ac814f
+      internalID: 6137255206589696286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 226
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19013aa9948910c4486a0a1fad09f168
+      internalID: 4607802341710678069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_29
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 226
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805f10288989eba43802256e5b0fec7c
+      internalID: -5442339235819264715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 226
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b8bc365e8c5d2429f4d85ce7e6a487
+      internalID: -3503701947652421012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 226
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b71258d15fff341af195bf20d4e966
+      internalID: 3314715897975411264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 226
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26095fedb403bf74dab8aed910052f32
+      internalID: -8001891229191080313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_33
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 226
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3d1393869672e47904e085da22c6ef
+      internalID: -5141470029832243674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_34
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 226
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd569475145861441acb3625e37f80b4
+      internalID: 5462626123228230912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 226
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f46236dbee5304182c6bd28a68b87c
+      internalID: 4321346944704947264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_36
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 226
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594df75469c293043a4336b1b7a60dda
+      internalID: 2716956066260767287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_37
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 226
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3fcaa5ec52bba4991747f8be6a69c8
+      internalID: 7903562019468431788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_38
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 226
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3b5e3d80fb65a41b084e6f8e60c3e9
+      internalID: 5172972115698408514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_39
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 226
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8c15d80c2360e46b6d788cd84591be
+      internalID: 3669078257961308673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_40
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 226
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f695fc17991c6394da830631e70cc15f
+      internalID: -4228458828314014101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_41
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 226
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f225b9d360db3a43883abba3685d552
+      internalID: -1154356986826240580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_42
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 226
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5c6af578d8ca54d95dac541e2aeab1
+      internalID: 7510430086436679612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_43
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 226
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f0d61fd401a9d428d7e1edb9ef8a49
+      internalID: -2238209975756024508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_44
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 226
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748212c3302c9cc4a9b77015818f1f49
+      internalID: 7223082793304272682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_45
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 226
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed903e066560f14d89e65663c15a20b
+      internalID: 8859534456034721557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_46
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 226
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afde5709886e3dc43b63c7480ee86895
+      internalID: 3501282399546996498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_47
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 226
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2dd88ad7faee84683fecd254ed9cbf
+      internalID: 5016391731394646408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_48
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 226
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010a50084a16dfb4798b516a96c792bc
+      internalID: -6322042949161357845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_49
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 226
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85f534e08b7d524d970851af9ba7f99
+      internalID: -8473841331998040159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_50
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 226
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a0d852979d81d4b917ed3a58c27bc3
+      internalID: 9079413886493485186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_51
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 226
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e649306fca303394bb37f2a04d67e81b
+      internalID: 3024198412684229649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_52
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 226
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26df5993c91b3d74a9e5927b45df6650
+      internalID: 7426098556711720094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_53
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 226
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fc82a0c5d5d3347be419e7037275ba
+      internalID: -562677018374019625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_54
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 226
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529b209756677ce4a8e062cf245c5499
+      internalID: -1384840068017027372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_55
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 226
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2d48235244a5740bafaab7118708a0
+      internalID: 7805993554558244358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 149
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3203a76c83084d54ca8ceb3e44d58806
+      internalID: 1449533427278040649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_57
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 149
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc7a86fae8f7a84cb92196a8c7c1dff
+      internalID: 2583934428467553584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_58
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 149
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac36ea9ad957b8045a2fb3c203bea6e3
+      internalID: -3878078375288563865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_59
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 149
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bcf500f7140e646a0095b09c1ad289
+      internalID: 8473221842093683612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_60
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 149
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d93426a7b9d7f4ca82fe1d5285513e
+      internalID: -3801885114918538072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_61
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 149
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d1f2ec66e9e0b43b9d66a25bff518b
+      internalID: -8607644185304248636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_62
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 149
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c126f92a08085749bcd8fbc7a82445b
+      internalID: -4130262279574746411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_63
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 149
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6090d6ffd412ea34b84ea5afa8024f03
+      internalID: -4038216379609967663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_64
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 149
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9aec8ed5b2d574393c304c5ec8ef9e
+      internalID: 7216501812283603583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_65
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 149
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1712341d06f6ef843befb5c34347f42d
+      internalID: -3976637211076220836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_66
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 149
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7162c87b3c85845bb6312797800d42
+      internalID: 5040549483016042394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_67
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 149
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5e2e3ae4085f94f9cf5833491dd089
+      internalID: -8330091520617503182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_68
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 149
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b063899a3d27f4d87acc7e67db85f7
+      internalID: 651992885984521675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_69
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 149
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6239733f27a185840ab4a9c8c418b1f0
+      internalID: -832069527018261530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_70
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 149
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d185490f89408b64aa3827439d540e0c
+      internalID: -2935395537627003582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_71
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 149
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0d7ecda6c79994a84d457088961522
+      internalID: 1200594066324227567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_72
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 149
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a52dfe810fad3a41a2f3d70aef839d0
+      internalID: 6299147501143721905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_73
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 149
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb46bdfeecbe8034fbd105f0109873b2
+      internalID: 3016670370984433291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_74
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 149
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54a5ae69095cc144aa9f96cd1fc3164
+      internalID: -510666064194154283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_75
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 149
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd613f5e26488a41945fe0c9c2eded5
+      internalID: 2900746794084640785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_76
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 149
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d596081de316e6e4685bf55794805218
+      internalID: 7361790942730341887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_77
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 149
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7845ebef98fbaf145aca194855d7bf7f
+      internalID: 7510649529068877921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_78
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 149
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17327d88f8092564bb5c9db7a2fb7423
+      internalID: 5022501776260073587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_79
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 149
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3007ca9ef014341a054462672cdd0a
+      internalID: -481260446260074605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_80
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 149
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8639dd3436f7a5a48af70a54de3d095a
+      internalID: -7638813021721935998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_81
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 149
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f9c8576042ac84ba0d926a12d3839b
+      internalID: 7607737843870681878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_82
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 149
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b864444b615e5cc48b90b008df9234bc
+      internalID: -4174150448946931686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_83
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 149
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c309cf516d94c6140a60baa0ecf06f4b
+      internalID: 3666842388270064212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_84
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 76
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a75e687b055c440ab5874403018599
+      internalID: 853685002473670716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_85
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 76
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0532336b1f6373a4994a8d4e252d451f
+      internalID: -7343376446857918173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_86
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 76
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e3cc226d332b5439f0932cef1e7c09
+      internalID: 7112344959628220649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_87
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 76
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b127795e54b16a4d883f60f82dd6867
+      internalID: -8086123512335044229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_88
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 76
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a204c7ce536bd844bb03f9321b11bdb
+      internalID: 234859177685808352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_89
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 76
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cce41ef6bfcbf649a1312d27fde17b5
+      internalID: -3059853377249748945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_90
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 76
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727b4a64193e1e6459c4ad621388aac3
+      internalID: 1719273078273657131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_91
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 76
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4a77460d68fc94c9dbf6d5b59c5949
+      internalID: 249662019029667174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_92
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 76
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79212a5ff044f1489ef32292d988687
+      internalID: -4201213385031251293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_93
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 76
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f654fbb175ceca14f9a7acb1ad5d8a3e
+      internalID: 8836133428296533695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_94
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 76
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73384b874f1e13740b58e5f65e285931
+      internalID: -2519585656884272350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_95
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 76
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a17aec1c5b4a1c4e82c65aa0a065ef6
+      internalID: -7322936815720457121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_96
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 76
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70079e803516fc4b97198ddcd0e0d7e
+      internalID: 4883526584861024007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_97
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 76
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4fd74bee3e9d4468d63db285b91aea
+      internalID: 7599950894328398443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_98
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 76
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82be49a80a08c794fa354fd24d237718
+      internalID: -6287170106851748188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_99
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 76
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f474b77c8b95c47a4835a6b2606947
+      internalID: 1634345946109738900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_100
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 76
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f931a978f2d8a4cabe247f42de526d
+      internalID: -8644959355548545632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_101
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 76
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ccd154e85d6c240936a83aa4153fff
+      internalID: -901162287700045516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_102
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 76
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87854efa6ad995c439bc6288f4d8ee66
+      internalID: 7909760139275295147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_103
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 76
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38753ce2ffd5316479a934dfa7ab39f5
+      internalID: -5069050943502930448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_104
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 76
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffb8bef95a39e74d909d5ad2801f1f5
+      internalID: -521664427168203994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_105
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 76
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9af989f532c9e4d8aada89f5dc7982
+      internalID: -71481004651482242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_106
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 76
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb7ac3a9a199af41b963361ee8bd8ce
+      internalID: -6616985564468468782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_107
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 76
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a406729da4cccd44be7d6de9ee24811
+      internalID: -5081910972215760832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_108
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 76
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65289fbb37419994d9e1db91ff801ff4
+      internalID: -7231579830537364790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_109
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 76
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b3b4b4ce01c194b9a019c291698b39
+      internalID: -850885434771489000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_110
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 76
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f58939d18efcfa46b32a51ad2dd3839
+      internalID: 9112286087849887209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_111
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 76
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b5c9cbe06f14248a7ca4bef6e83417
+      internalID: 7385739708429563120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_112
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71017235648483d47a0111b243057a22
+      internalID: -7853774826403443105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 5
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac662034575dfbf49a05a25f13333482
+      internalID: -7280988811755971180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_114
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 5
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba1f30cb9e569c4085028ffca3cbfef
+      internalID: 7760659951329830388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_115
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 5
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5883e3fce9739c64bacdaad25a6e744a
+      internalID: 1998641467438365020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_116
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 5
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e7e044312bd4d4cb0de4e241e927f6
+      internalID: 1296545757861157509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_117
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 5
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7171deecda2d684fbead3c9ce11bf57
+      internalID: 7002569439302310409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_118
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 5
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5effbb17ea98a7044a23a4e5a1640417
+      internalID: -7758139023487179950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_119
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 5
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c1e27c7dd6d11489683d1b70686eba
+      internalID: -6597290483922516194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_120
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 5
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6553715944f5352488f38694c2ab2c20
+      internalID: -5135640293089134442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_121
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 5
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a802b55d7f95c4d808c69417b4051c
+      internalID: -5108498663001609181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_122
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 5
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99160f192bc28b429dd67c05df400a5
+      internalID: 5149697257699845701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_123
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 5
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c4481c03cfc9a41828ad12a60c8557
+      internalID: -4727747304470961993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_124
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 5
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0e8d9d30467c749b733a209a880915
+      internalID: 743458022636812935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_125
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 5
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dc6025713676f4da365d1929c9c735
+      internalID: -8685055164778473696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_126
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 5
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf67e77201231d47b5f274f12704ec3
+      internalID: 488720775149618332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_127
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 5
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13cd6c171c90d344b3c9a5783006762
+      internalID: 5199357688909359182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_128
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 5
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0d67c08bc85a747aaea07ac67fa320
+      internalID: -336559257788563135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_129
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 5
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee74dd5c39fd5048a60d1ed79617152
+      internalID: 4580225576671045131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_130
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 5
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffb43df862298d4fbf5e45be72027ef
+      internalID: -7112771293589385440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_131
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 5
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abc157d5f77c21469fb625acf44437e
+      internalID: -2667140480739224103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_132
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 5
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89a54688e0eece499de0529595e5c0b
+      internalID: 3895188964434738831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_133
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 5
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532ff82ef89a9ff428abf4d405298370
+      internalID: 4465844641263102090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_134
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 5
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84612167e2c2ec3408cd8b537807269b
+      internalID: -7168135664431968997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_135
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 5
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedbff15215b24946b3473b7a6573757
+      internalID: 5078332384064122840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_136
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 5
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241341412362f6b46929b352945c72e7
+      internalID: 7334617261150441259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_137
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 5
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003150a7c5b442447b34979e7cb54a09
+      internalID: -4192173971019992905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shinobies_138
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 5
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965d78e550e04494ca7abf2f2c9f0d4b
+      internalID: -2350731052235294544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
